@@ -1,0 +1,26 @@
+body {
+    padding:10px 20px;
+    width: 400px;
+    font-style:oblique;
+    font-size:22px;
+    line-height: 1.5;
+    background: url("images/Chicago.jpg");
+}
+
+h1 {
+    margin:0;
+    color:black;  
+}
+label {
+    color:black;  
+    
+}
+.button {
+    color:darkblue;
+    background-color:azure;
+    font-size: 15px;
+}
+
+
+
+
